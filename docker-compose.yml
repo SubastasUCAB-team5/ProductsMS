@@ -1,0 +1,51 @@
+version: '3.9'
+
+services:
+  productms-main:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - sqlserver-productms
+      - rabbitmq-productms
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=ProductDB;User=sa;Password=Your_password123;TrustServerCertificate=True
+      - RabbitMq__Host=rabbitmq
+    ports:
+      - "8080:80"
+    networks:
+      - backend
+
+  sqlserver-productms:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Your_password123
+    ports:
+      - "1433:1433"
+    networks:
+      - backend
+    volumes:
+      - sql_data:/var/opt/mssql
+
+  rabbitmq-productms:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - backend
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+
+networks:
+  backend:
+    driver: bridge
+
+volumes:
+  sql_data:
+    driver: local
+  mongo_data:
+    driver: local

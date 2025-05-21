@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE6A13F-4E81-309F-D260-C4C584E5894A}|ProductMS\\ProductMS.csproj|c:\\users\\cesar\\downloads\\desarrollo\\productsms\\productms\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE6A13F-4E81-309F-D260-C4C584E5894A}|ProductMS\\ProductMS.csproj|solutionrelative:productms\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE6A13F-4E81-309F-D260-C4C584E5894A}|ProductMS\\ProductMS.csproj|c:\\users\\cesar\\downloads\\desarrollo\\productsms\\productms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE6A13F-4E81-309F-D260-C4C584E5894A}|ProductMS\\ProductMS.csproj|solutionrelative:productms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B80C6-AB01-A217-8947-4BA14F48858C}|ProductMS.Infrastructure\\ProductMS.Infrastructure.csproj|c:\\users\\cesar\\downloads\\desarrollo\\productsms\\productms.infrastructure\\service\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B80C6-AB01-A217-8947-4BA14F48858C}|ProductMS.Infrastructure\\ProductMS.Infrastructure.csproj|solutionrelative:productms.infrastructure\\service\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AF28F-330E-4B02-160A-E1573EDB1845}|ProductMS.Domain\\ProductMS.Domain.csproj|c:\\users\\cesar\\downloads\\desarrollo\\productsms\\productms.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AF28F-330E-4B02-160A-E1573EDB1845}|ProductMS.Domain\\ProductMS.Domain.csproj|solutionrelative:productms.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA19F265-8EBC-7A28-1B96-2D3C8124F867}|ProductMS.Application\\ProductMS.Application.csproj|c:\\users\\cesar\\downloads\\desarrollo\\productsms\\productms.application\\handlers\\commands\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA19F265-8EBC-7A28-1B96-2D3C8124F867}|ProductMS.Application\\ProductMS.Application.csproj|solutionrelative:productms.application\\handlers\\commands\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3AF28F-330E-4B02-160A-E1573EDB1845}|ProductMS.Domain\\ProductMS.Domain.csproj|c:\\users\\cesar\\downloads\\desarrollo\\productsms\\productms.domain\\entities\\productreadmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3AF28F-330E-4B02-160A-E1573EDB1845}|ProductMS.Domain\\ProductMS.Domain.csproj|solutionrelative:productms.domain\\entities\\productreadmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA19F265-8EBC-7A28-1B96-2D3C8124F867}|ProductMS.Application\\ProductMS.Application.csproj|c:\\users\\cesar\\downloads\\desarrollo\\productsms\\productms.application\\handlers\\commands\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA19F265-8EBC-7A28-1B96-2D3C8124F867}|ProductMS.Application\\ProductMS.Application.csproj|solutionrelative:productms.application\\handlers\\commands\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMS\\Program.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS\\Program.cs",
+              "RelativeToolTip": "ProductMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:30:09.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Infrastructure\\Service\\EventPublisher.cs",
+              "RelativeDocumentMoniker": "ProductMS.Infrastructure\\Service\\EventPublisher.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Infrastructure\\Service\\EventPublisher.cs",
+              "RelativeToolTip": "ProductMS.Infrastructure\\Service\\EventPublisher.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:10:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductReadModal.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Domain\\Entities\\ProductReadModal.cs",
+              "RelativeDocumentMoniker": "ProductMS.Domain\\Entities\\ProductReadModal.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Domain\\Entities\\ProductReadModal.cs",
+              "RelativeToolTip": "ProductMS.Domain\\Entities\\ProductReadModal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:06:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMS.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductMS.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:42:25.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Application\\Handlers\\Commands\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductMS.Application\\Handlers\\Commands\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Application\\Handlers\\Commands\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "ProductMS.Application\\Handlers\\Commands\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:35:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductMS\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "ProductMS\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:33:18.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Application\\Handlers\\Commands\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductMS.Application\\Handlers\\Commands\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\cesar\\Downloads\\Desarrollo\\ProductsMS\\ProductMS.Application\\Handlers\\Commands\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "ProductMS.Application\\Handlers\\Commands\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:32:14.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
